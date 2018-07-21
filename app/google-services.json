@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "961914234247",
+    "firebase_url": "https://hack-a-mole.firebaseio.com",
+    "project_id": "hack-a-mole",
+    "storage_bucket": "hack-a-mole.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961914234247:android:6bdaf6a6a1bc3f15",
+        "android_client_info": {
+          "package_name": "com.example.nira9586.hack_a_mole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961914234247-fii668nosli0fmo9javrtruhhpmhh57e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nira9586.hack_a_mole",
+            "certificate_hash": "834912a3fb30dab5c83ce5a0181ff796655a7d76"
+          }
+        },
+        {
+          "client_id": "961914234247-5tck2gs3n7cgpodgn8us5bcrapoq41ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nira9586.hack_a_mole",
+            "certificate_hash": "122588c620a24a8bd8d63b6001da3eb1de24d483"
+          }
+        },
+        {
+          "client_id": "961914234247-q69dtfrhsl04llvo2b5s60vppe0db35u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOCUd5lB4NLEVMpqTzDrfAWrrXMxX4_9w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961914234247-q69dtfrhsl04llvo2b5s60vppe0db35u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
