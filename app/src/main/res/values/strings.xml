@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Hack_a_Mole</string>
+    <string name="action_three_day_view">3 Day View</string>
+    <string name="action_today">Today</string>
+    <string name="action_day_view">Day View</string>
+    <string name="action_week_view">Week View</string>
+
+
 </resources>
